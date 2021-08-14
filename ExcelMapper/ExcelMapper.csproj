@@ -4,4 +4,9 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Google.Apis.Auth" Version="1.52.0" />
+      <PackageReference Include="Google.Apis.Sheets.v4" Version="1.52.0.2338" />
+    </ItemGroup>
+
 </Project>
